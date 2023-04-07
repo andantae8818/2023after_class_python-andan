@@ -1,2 +1,2 @@
 # **2023after_class_python andan
-2+2=
+print 2+2=
